@@ -1,6 +1,6 @@
 Name:		texlive-menucard
 Version:	55643
-Release:	1
+Release:	2
 Summary:	Typesetting menu cards with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/menucard
